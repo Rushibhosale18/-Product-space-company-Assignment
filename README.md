@@ -4,7 +4,6 @@
 
 SpaceTask is a production-ready, multi-user Mini SaaS application designed to help users securely manage their personal task lists. Built with a focus on modern design principles, architectural best practices, and robust API security, this project demonstrates end-to-end full-stack development capabilities.
 
----
 
 ## 📌 Executive Summary
 
